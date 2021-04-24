@@ -1,0 +1,1 @@
+In Python you can sort a dictionary.In Python you can split a list.In Python you can import inside a function.In Python you can iterate through a dictionary.In Python you can return a string.
